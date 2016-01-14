@@ -1,0 +1,1 @@
+Angular JS practice following prof. Jose Annunziato @https://www.youtube.com/watch?v=Kan1sMNOlIck
